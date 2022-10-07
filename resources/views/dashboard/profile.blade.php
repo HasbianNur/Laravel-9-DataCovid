@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- Coding by CodingLab | www.codinglabweb.com-->
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -30,16 +29,16 @@
       </div>
 
       <div class="media-buttons">
-        <a href="#" style="background: #4267b2" class="link">
+        <a href="https://www.facebook.com/hasbian.nur.31/" style="background: #4267b2" class="link">
           <i class="bx bxl-facebook"></i>
         </a>
-        <a href="#" style="background: #1da1f2" class="link">
-          <i class="bx bxl-twitter"></i>
+        <a href="https://github.com/HasbianNur" style="background: #0a0a0a" class="link">
+          <i class="bx bxl-github"></i>
         </a>
-        <a href="#" style="background: #e1306c" class="link">
+        <a href="https://www.instagram.com/hasbii_30/" style="background: #e1306c" class="link">
           <i class="bx bxl-instagram"></i>
         </a>
-        <a href="#" style="background: #ff0000" class="link">
+        <a href="https://www.youtube.com/channel/UCANGPr2O7POeWkh9CZR7f2A" style="background: #ff0000" class="link">
           <i class="bx bxl-youtube"></i>
         </a>
       </div>
